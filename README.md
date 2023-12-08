@@ -1,6 +1,8 @@
 # xmas-tree
 Perl one-liner to show a Xmas tree on your console/terminal. 
 
+![Alt text](xmas-tree.png?raw=true "A Xmas Tree in Perl")
+
 ## history
 I found this one-liner many many years ago in some `alt.programmig.perl` forum or similar - I honestly cannot remember where anymore -, and I tried to keep a copy of it every time I switched to a new computer.
 
